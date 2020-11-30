@@ -9,7 +9,7 @@ import (
 
 	"github.com/SsSJKK/gosql/pkg/customers"
 
-	"github.com/SsSJKK/gosql/cmd/server/app"
+	"github.com/SsSJKK/gosql/cmd/app"
 	_ "github.com/jackc/pgx/v4/stdlib"
 )
 
